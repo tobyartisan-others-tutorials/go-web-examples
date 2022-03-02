@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-    db, err := sql.Open("mysql", "root:root@(127.0.0.1:3306)/go_web_examples?parseTime=true")
+    db, err := sql.Open("mysql", "root:secret@(127.0.0.1:3306)/go_web_examples?parseTime=true")
     if err != nil {
         log.Fatal(err)
     }
