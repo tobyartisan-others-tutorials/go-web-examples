@@ -1,2 +1,3 @@
 # go-web-examples
-Following the Go Web Examples tutorial at https://gowebexamples.com/hello-world/.
+
+Following the tutorial [Go Web Examples](https://gowebexamples.com/hello-world/).
